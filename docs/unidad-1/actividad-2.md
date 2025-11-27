@@ -9,57 +9,49 @@ tags: [unidad-1, tarea]
 
 ## Objetivo
 
-Desarrollarás habilidades en la aplicación práctica de la metodología Scrum para la planificación de proyectos de diseño web.
+Aprender a aplicar SCRUM de forma práctica en la planificación de proyectos web.
 
 ## Introducción
 
-En el mundo del diseño web, la planificación precisa y la ejecución eficiente son clave para el éxito de cualquier proyecto. En este ejercicio, conoceremos la metodología SCRUM, una herramienta ágil que transforma la gestión de proyectos. Su enfoque en iteraciones cortas, colaboración y adaptabilidad lo convierte en el aliado perfecto para la creación de sitios web dinámicos y funcionales.
+Planificar bien y ejecutar eficientemente es clave para que un proyecto web salga bien. En esta actividad voy a conocer SCRUM, una metodología ágil que me ayudará a gestionar proyectos mejor. Con sus iteraciones cortas, trabajo en equipo y adaptabilidad, será mi mejor aliado para crear sitios web dinámicos y funcionales.
 
-## Instrucciones
+## ¿Qué debo hacer?
 
-1. En esta actividad retomaremos la parte de los requerimientos del proyecto que realizaste en el curso de Proyecto 1 o bien, deberás plantear uno nuevo tomando como base la documentación PMI.
+1. **Retoma tu proyecto**: Usa los requerimientos del proyecto que hiciste en Proyecto 1, o si prefieres, plantea uno nuevo basándote en la documentación PMI.
 
-2. Una vez que tienes seleccionado el requerimiento, descríbelo en un backlog y realiza un sprint. Recuerda que un sprint es una fase de desarrollo iterativa.
+2. **Crea tu backlog y primer sprint**: Con los requerimientos seleccionados, descríbelos en un backlog y haz tu primer sprint (recuerda que un sprint es una fase de desarrollo iterativa).
 
-Sigue estos pasos:
+**Sigue estos pasos:**
 
-### Creación del Producto Backlog
+### 1. Creación del Product Backlog
 
-- Identifica y enumera los elementos clave del proyecto de diseño web. Estos pueden incluir funcionalidades, características y requisitos.
-- Prioriza estos elementos en función de su importancia y valor para el cliente.
+- Identifica los elementos clave de tu proyecto web (funcionalidades, características, requisitos)
+- Priorízalos según su importancia y valor para el cliente
 
-### Planificación del sprint Backlog
+### 2. Planificación del Sprint Backlog
 
-- Selecciona los elementos prioritarios del Product Backlog para incluir en el próximo sprint.
-- Establece metas claras y específicas para el sprint, definiendo qué se espera lograr al finalizar.
-- Divide las tareas en subtareas manejables y asigna estimaciones de tiempo para cada una.
+- Selecciona los elementos más importantes del Product Backlog para tu primer sprint
+- Define metas claras: ¿qué quieres lograr al finalizar?
+- Divide las tareas en subtareas pequeñas y estima cuánto tiempo te tomará cada una
 
-### Revisión y ajuste
+### 3. Revisión y ajuste
 
-- Evalúa la viabilidad del plan de sprint, considerando la capacidad del equipo y los recursos disponibles.
-- Realiza ajustes según sea necesario para garantizar un compromiso realista y alcanzable.
+- Evalúa si tu plan es realista considerando tu tiempo y recursos
+- Ajusta lo necesario para que sea alcanzable
 
-### Documentación
+### 4. Documentación
 
-- Registra el Product Backlog y el Sprint Backlog de manera clara y concisa.
-- Reflexiona sobre el proceso, identificando lecciones aprendidas y posibles mejoras para futuros sprints.
+- Registra tu Product Backlog y Sprint Backlog de forma clara
+- Reflexiona: ¿qué aprendí? ¿qué puedo mejorar para los siguientes sprints?
 
-### Evidencia
+### 5. Evidencia
 
-1. Muestra la evidencia de la creación de dicho backlog en JIRA o Trello, puedes elegir una de estas dos herramientas.
+1. Usa **JIRA o Trello** para crear tu backlog (elige la que prefieras)
 
-2. Sube un documento con el link a la herramienta y capturas de pantalla que evidencian su uso.
+2. Sube un documento con:
+   - El link a tu herramienta
+   - Capturas de pantalla mostrando tu trabajo
 
-## Recomendaciones
+## ¿Cómo me evalúan?
 
-Ninguna.
-
-## Criterios de Evaluación
-
-Rúbrica.
-
-## Apoyos
-
-- Smartsheet. (s.f.). Las mejores plantillas de Excel para la gestión ágil de proyectos. Recuperado de [https://es.smartsheet.com/agile-project-management-excel-templates](https://es.smartsheet.com/agile-project-management-excel-templates)
-
-- CECyT Digital Harbor. (6 abr. 2018). Ejemplo de Product Backlog (Taller Mecánico). [Archivo de video]. Recuperado de [https://es.smartsheet.com/agile-project-management-excel-templates](https://es.smartsheet.com/agile-project-management-excel-templates)
+Según una rúbrica.

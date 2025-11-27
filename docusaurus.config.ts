@@ -5,7 +5,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: 'Documentación del Curso',
+  title: 'Proyecto II',
   tagline: 'Metodología SCRUM y Desarrollo de Proyecto',
   favicon: 'img/favicon.ico',
 
@@ -61,29 +61,16 @@ const config: Config = {
       respectPrefersColorScheme: false,
     },
     navbar: {
-      title: 'Documentación del Curso',
+      title: 'Proyecto II',
       logo: {
         alt: 'Logo',
         src: 'img/logo.svg',
       },
-      items: [
-        {
-          type: 'docSidebar',
-          sidebarId: 'courseSidebar',
-          position: 'left',
-          label: 'Contenido',
-        },
-        {
-          href: 'https://github.com/cefo/docusaurus',
-          label: 'GitHub',
-          position: 'right',
-        },
-      ],
     },
     footer: {
       style: 'dark',
       links: [],
-      copyright: `Copyright © ${new Date().getFullYear()} Documentación del Curso. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Proyecto II. Built with Docusaurus.`,
     },
     prism: {
       theme: prismThemes.github,

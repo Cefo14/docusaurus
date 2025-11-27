@@ -9,37 +9,31 @@ tags: [unidad-4, tarea]
 
 ## Objetivo
 
-Realizarás la revisión y modificaciones al proyecto de equipo a través de una reunión de trabajo.
+Realizar la revisión y modificaciones al proyecto de equipo a través de una reunión de trabajo.
 
-## Instrucciones
+## ¿Qué debo hacer?
 
-La reunión para la revisión del proyecto marca el inicio de su finalización antes de ser liberado para su uso. En ésta se establecen las partes que son necesarias y los cambios para su término.
+La reunión para revisar el proyecto marca el inicio de su finalización antes de liberarlo para uso. En ella establecemos las partes necesarias y los cambios para terminarlo.
 
-Ya estás en la última unidad del curso y para la entrega de esta actividad necesitarás:
+Ya estoy en la última unidad del curso. Para esta actividad necesito:
 
-1. Planear un día de reunión con tus compañeros de equipo en el espacio que estén utilizando para comunicarse.
+1. **Planear un día de reunión** con mis compañeros en el espacio que estemos usando para comunicarnos.
 
-   Recuerda que entre más pronto la determinen, tendrán más tiempo para desarrollar la actividad. Si consideran necesario pueden dialogar a través de alguna herramienta para videoconferencia.
+   Entre más pronto la determinemos, más tiempo tendremos. Si es necesario, podemos usar una herramienta de videoconferencia.
 
-2. Revisen los proyectos de los demás integrantes y de cada uno tomen los últimos back log y la última versión de Github.
+2. **Revisar los proyectos** de los demás integrantes. De cada uno tomar los últimos backlog y la última versión de Github.
 
-3. Establezcan un calendario de reuniones para revisión de los proyectos y el rol que tomará cada uno de los integrantes para documentarlo.
+3. **Establecer un calendario de reuniones** para revisar los proyectos y el rol que tomará cada uno para documentarlo.
 
-4. Realiza una bitácora en la que plasmes:
+4. **Realiza una bitácora** donde plasmes:
 
    - Las propuestas de modificaciones
    - El calendario de reuniones
    - El rol de cada participante
 
-5. Envía tu documento al buzón y espera la retroalimentación por parte de tu asesor.
+5. **Envía tu documento** al buzón y espera la retroalimentación de tu asesor.
 
-## Recomendaciones
-
-¿Cómo se programan las reuniones?
-
-- [https://support.zoom.us/hc/es/articles/201362413--C%C3%B3mo-se-programan-las-reuniones-](https://support.zoom.us/hc/es/articles/201362413--C%C3%B3mo-se-programan-las-reuniones-)
-
-## Criterios de Evaluación
+## ¿Cómo me evalúan?
 
 ### Fondo
 

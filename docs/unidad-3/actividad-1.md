@@ -9,32 +9,27 @@ tags: [unidad-3, tarea]
 
 ## Objetivo
 
-Desarrollarás los sprint propuestos en la calendarización y su documentación.
+Desarrollar los sprints propuestos en la calendarización y su documentación.
 
-## Instrucciones
+## ¿Qué debo hacer?
 
-El desarrollo de los sprint con React son procesos de construcción del sistema que se dan en base a los backlog, su desarrollo en tiempo y forma son importantes para cumplir con lo asentado en el documento de seguimiento, así como también es relevante el documentar, el o los motivos por los cuales no se logra el cumplimiento.
+El desarrollo de los sprints con React son procesos de construcción del sistema basados en los backlogs. Su desarrollo en tiempo y forma es importante para cumplir con lo que dice el documento de seguimiento. También es relevante documentar los motivos por los cuales no se logró algo.
 
-Hasta este punto del curso, desarrollaste los primeros Sprint y te hicieron una primera revisión. En esta actividad necesitarás retomar la actividad anterior y desarrollar en un documento lo siguiente:
+Hasta este punto, ya desarrollé los primeros Sprints y recibí una primera revisión. Ahora necesito retomar la actividad anterior y desarrollar en un documento:
 
-1. Avances de los Sprint
+1. **Avances de los Sprint**
 
-2. Los ajustes que tuviste que hacer
+2. **Los ajustes que tuve que hacer**
 
-3. La liga de Github donde se guardan los avances del desarrollo con React
+3. **La liga de Github** donde están los avances del desarrollo con React
 
-4. Al finalizar envía tu documento al buzón de tareas y espera retroalimentación por parte de tu asesor.
+4. **Al finalizar**, envía tu documento al buzón y espera retroalimentación de tu asesor.
 
-## Duración estimada
+## Tiempo para completarla
 
 Una semana
 
-## Recomendaciones
-
-- No olvides anexar la documentación con las modificaciones de avance en el backlog y el sprint Schedule a tu asesor.
-- Mantener el Github, que concuerden los avances documentados.
-
-## Criterios de Evaluación
+## ¿Cómo me evalúan?
 
 ### Fondo
 
@@ -45,13 +40,3 @@ Una semana
 
 - Liga de Github
 - Ajustes de los Sprint
-
-## Referencias
-
-### Proyectos de ejemplo
-
-- [https://es.reactjs.org/community/examples.html](https://es.reactjs.org/community/examples.html)
-
-### Ejemplo práctico de React desde cero
-
-- [https://www.arsys.es/blog/programacion/ejemplo-practico-react/](https://www.arsys.es/blog/programacion/ejemplo-practico-react/)

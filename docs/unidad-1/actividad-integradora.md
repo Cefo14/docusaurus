@@ -9,37 +9,33 @@ tags: [unidad-1, tarea, integradora]
 
 ## Objetivo
 
-Desarrollarás habilidades en la identificación y gestión de tareas, la colaboración efectiva en equipo, y la adaptación ágil a cambios en los requisitos del proyecto.
+Desarrollar habilidades para identificar y gestionar tareas, trabajar en equipo de forma efectiva, y adaptarme ágilmente a cambios en el proyecto.
 
 ## Introducción
 
-En el universo ágil de SCRUM, los sprints son bloques de tiempo corto y enfocado donde los equipos trabajan intensivamente para lograr metas específicas. Esta práctica no solo mejora la productividad, sino que también permite una adaptación continua a medida que evolucionan los requisitos del proyecto.
+En SCRUM, los sprints son periodos cortos de tiempo donde el equipo trabaja intensamente para lograr metas específicas. Esta práctica no solo mejora la productividad, sino que permite adaptarse continuamente mientras el proyecto evoluciona.
 
-En este ejercicio, te sumergirás en el mundo dinámico de SCRUM, planificando y ejecutando un Sprint para un proyecto de diseño web. A medida que avances, no solo desarrollarás competencias en gestión ágil, sino que también experimentarás la satisfacción de entregar resultados tangibles en un periodo de tiempo definido.
+En esta actividad me voy a sumergir en SCRUM, planificando y ejecutando un Sprint para mi proyecto web. Voy a desarrollar competencias en gestión ágil y experimentaré la satisfacción de entregar resultados concretos en un tiempo definido.
 
-## Instrucciones
+## ¿Qué debo hacer?
 
-1. Con base en el Backlog que llevaste a cabo en la actividad 2, realiza lo siguiente:
+1. **Con base en tu Backlog de la actividad 2**, realiza lo siguiente:
 
-   - Desarrolla y aplica el Scrum
-   - Desarrolla el código y documentación de sprint planning
-   - Desarróllalo en React
-   - Aloja el código en GitHub
+   - Desarrolla y aplica SCRUM
+   - Crea el código y la documentación de sprint planning
+   - Desaróllalo en **React**
+   - Sube el código a **GitHub**
 
-2. En un documento integra:
+2. **Integra en un documento:**
 
-   - El acceso de GitHub
-   - Product Backlog
-   - Fichas de Backlog
-   - Calendarización de los Sprint
+   - El acceso a tu repositorio de GitHub
+   - Tu Product Backlog
+   - Las fichas de Backlog
+   - La calendarización de los Sprint
 
-3. Envía tu producto al buzón y espera los comentarios por parte de tu asesor.
+3. **Envía tu producto** al buzón y espera los comentarios de tu asesor.
 
-## Recomendaciones
-
-Ninguna.
-
-## Criterios de Evaluación
+## ¿Cómo me evalúan?
 
 - Desarrollo y aplicación correcta de SCRUM
 - Código funcional desarrollado en React

@@ -9,27 +9,22 @@ tags: [unidad-3, tarea, integradora]
 
 ## Objetivo
 
-Presentarás el proyecto final y su documentación.
+Presentar el proyecto final y su documentación.
 
-## Instrucciones
+## ¿Qué debo hacer?
 
-El cumplimiento de metas en SCRUM en un proyecto permite evidenciar que se lograron los procedimientos planteados al inicio, o en su caso debe documentarse la razón del porqué no se llega a la meta propuesta.
+El cumplimiento de metas en SCRUM permite evidenciar que logré los procedimientos planteados al inicio. Si no llegué a la meta, debo documentar el porqué.
 
-1. Para esta última entrega tendrás que retomar la actividad previa (tres) y en un documento realizar un reporte que contenga:
+1. **Retoma la actividad 3** y en un documento haz un reporte que contenga:
 
    - Fases de los Sprint
    - Los Sprint graficados
    - Evidencia del funcionamiento de los Sprint
    - Código de Sprint almacenados en Github
 
-2. Envía tu actividad al buzón y espera la retroalimentación por parte de tu asesor.
+2. **Envía tu actividad** al buzón y espera la retroalimentación de tu asesor.
 
-## Recomendaciones
-
-- Los Github tienen que concordar con los avances documentados.
-- Anexar las modificaciones de avances en el backlog y el Sprint Schedule.
-
-## Criterios de Evaluación
+## ¿Cómo me evalúan?
 
 ### Fondo
 
@@ -39,6 +34,6 @@ El cumplimiento de metas en SCRUM en un proyecto permite evidenciar que se logra
 
 ### Forma
 
-- Portada con datos del alumno, asesor, materia, fecha de entrega/envío, y nombre de la actividad y unidad
-- Sintaxis, ortografía, claridad y concisión en las ideas vertidas
-- Referenciación de fuentes empleadas conforme al estilo APA
+- Portada con mis datos, datos del asesor, materia, fecha de entrega, nombre de actividad y unidad
+- Sintaxis, ortografía, claridad y concisión en las ideas
+- Referencias conforme al estilo APA

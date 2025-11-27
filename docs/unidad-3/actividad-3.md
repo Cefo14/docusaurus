@@ -9,28 +9,23 @@ tags: [unidad-3, tarea]
 
 ## Objetivo
 
-Desarrollarás los cambios en los sprints propuestos en la calendarización, así como su documentación.
+Desarrollar los cambios en los sprints propuestos en la calendarización y su documentación.
 
-## Instrucciones
+## ¿Qué debo hacer?
 
-Estás a punto de terminar esta unidad y los cambios continúan para la mejora de tu proyecto, por lo que necesitas integrar al producto de la actividad 2 de esta unidad:
+Estoy a punto de terminar esta unidad y los cambios continúan para mejorar mi proyecto. Necesito integrar al producto de la actividad 2 de esta unidad:
 
-- La tercera fase de progreso de desarrollo de los Sprint
-- Los últimos ajustes que tuviste que hacer
-- La liga de Github donde se guardan los avances del desarrollo con React
+- **La tercera fase de progreso** de desarrollo de los Sprint
+- **Los últimos ajustes** que tuve que hacer
+- **La liga de Github** donde están los avances del desarrollo con React
 
-Envía tu actividad al buzón y espera la retroalimentación por parte de tu asesor.
+Envía tu actividad al buzón y espera la retroalimentación de tu asesor.
 
-## Duración estimada
+## Tiempo para completarla
 
 Una semana
 
-## Recomendaciones
-
-- No olvides que tienes que hacer una documentación con las modificaciones de avance en el backlog y el sprint Schedule.
-- Mantener el Github que concuerde con los avances documentados.
-
-## Criterios de Evaluación
+## ¿Cómo me evalúan?
 
 ### Fondo
 
@@ -41,13 +36,3 @@ Una semana
 
 - Liga de Github
 - Ajustes de los Sprint
-
-## Referencias
-
-### Proyectos de ejemplo
-
-- [https://es.reactjs.org/community/examples.html](https://es.reactjs.org/community/examples.html)
-
-### Ejemplo práctico de React desde cero
-
-- [https://www.arsys.es/blog/programacion/ejemplo-practico-react/](https://www.arsys.es/blog/programacion/ejemplo-practico-react/)

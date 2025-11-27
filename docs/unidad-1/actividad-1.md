@@ -9,30 +9,24 @@ tags: [unidad-1, examen]
 
 ## Objetivo
 
-Identificarás los aspectos más importantes de la metodología ágil SCRUM para su aplicación en el diseño web.
+Aprender los aspectos más importantes de SCRUM para aplicarlos en proyectos de diseño web.
 
 ## Introducción
 
-En el fascinante mundo del diseño web, la metodología Scrum emerge como una herramienta invaluable para potenciar la creatividad, eficiencia y colaboración en los equipos de desarrollo.
+SCRUM es una metodología súper útil en el diseño web. Me va a ayudar a ser más creativo, eficiente y a trabajar mejor en equipo.
 
-En este ejercicio, exploraremos cómo los principios fundamentales de Scrum pueden ser adaptados de manera efectiva al proceso de diseño web, permitiendo no solo crear sitios impactantes, sino también gestionar proyectos de manera ágil y efectiva, fortaleciendo habilidades esenciales de planificación, comunicación y adaptabilidad en el contexto del diseño web contemporáneo.
+En esta actividad voy a explorar cómo funciona SCRUM y cómo puedo aplicarlo al desarrollo web. No solo aprenderé a crear sitios web impactantes, sino también a gestionar proyectos de forma ágil, mejorando mis habilidades de planificación, comunicación y adaptabilidad.
 
-## Instrucciones
+## ¿Qué debo hacer?
 
-1. Lee los siguientes recursos y toma nota de la definición, características, aplicación y beneficios de la metodología ágil SCRUM:
+1. **Lee sobre SCRUM**: Revisa este recurso y toma notas sobre:
+   - Qué es SCRUM
+   - Sus características
+   - Cómo se aplica
+   - Qué beneficios tiene
 
-   ProyectosAgiles.org. (s.f.). Qué es SCRUM. Disponible en [https://proyectosagiles.org/que-es-scrum/](https://proyectosagiles.org/que-es-scrum/)
+2. **Completa los ejercicios**
 
-2. Realiza los ejercicios que se presentan a continuación.
+## ¿Cómo me evalúan?
 
-## Recomendaciones
-
-Ninguna.
-
-## Criterios de Evaluación
-
-- Responde correctamente las preguntas planteadas en el ejercicio
-
-## Apoyos
-
-- ProyectosAgiles.org. (s.f.). Qué es SCRUM. Disponible en [https://proyectosagiles.org/que-es-scrum/](https://proyectosagiles.org/que-es-scrum/)
+- Respondo correctamente las preguntas del ejercicio

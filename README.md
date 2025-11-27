@@ -45,15 +45,6 @@ Este proyecto sigue [Conventional Commits](https://www.conventionalcommits.org/)
 - `fix:` - Correccion de errores
 - `chore:` - Tareas de mantenimiento
 
-## Plantilla de Actividad
-
-Las actividades siguen la estructura definida en `docs/_activity-template.md`:
-
-- Objetivo
-- Instrucciones
-- Recomendaciones
-- Criterios de Evaluacion
-
 ## Tecnologias
 
 - [Docusaurus](https://docusaurus.io/)

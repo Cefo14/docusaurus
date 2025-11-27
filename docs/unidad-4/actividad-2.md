@@ -9,31 +9,27 @@ tags: [unidad-4, tarea]
 
 ## Objetivo
 
-Realizarás las modificaciones propuestas para el proyecto.
+Realizar las modificaciones propuestas para el proyecto.
 
-## Instrucciones
+## ¿Qué debo hacer?
 
-La reunión de revisión permite efectuar las modificaciones sugeridas en la actividad anterior para que puedas llegar con éxito al final del proyecto.
+La reunión de revisión me permite hacer las modificaciones sugeridas en la actividad anterior para llegar con éxito al final del proyecto.
 
-1. Planeen una nueva reunión de equipo y lleven a cabo las modificaciones sugeridas en la actividad anterior, estas ya deben considerar las recomendaciones de tu asesor.
+1. **Planeen una nueva reunión de equipo** y lleven a cabo las modificaciones sugeridas en la actividad anterior (estas ya deben considerar las recomendaciones del asesor).
 
-2. Realicen una bitácora con las nuevas modificaciones en las que incluyas los back log y los cambios en Github.
+2. **Realicen una bitácora** con las nuevas modificaciones donde incluyas los backlog y los cambios en Github.
 
-3. Haz un reporte de los roles que desempeñaron durante la actividad.
+3. **Haz un reporte de los roles** que desempeñaron durante la actividad.
 
-4. Envía tu actividad al buzón y espera la retroalimentación por parte de tu asesor.
+4. **Envía tu actividad** al buzón y espera la retroalimentación de tu asesor.
 
-## Recomendaciones
-
-Anexar la documentación con las modificaciones de avance en el back log.
-
-## Criterios de Evaluación
+## ¿Cómo me evalúan?
 
 ### Fondo
 
-- Bitácora con la retrospectiva de cada uno de los proyectos de los integrantes de cada equipo
+- Bitácora con la retrospectiva de cada uno de los proyectos de los integrantes del equipo
 - Documento con las mejoras sugeridas
-- Reporte de los roles realizados por cada uno de los integrantes del equipo
+- Reporte de los roles realizados por cada integrante del equipo
 - El documento contiene el enlace de Github que concuerda con los avances descritos en la bitácora
 
 ### Forma
