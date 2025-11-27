@@ -1,4 +1,4 @@
-# Documentacion del Curso - Metodologia SCRUM
+# Documentacion
 
 Sitio de documentacion desarrollado con Docusaurus para presentar las actividades realizadas durante el curso de Proyecto II.
 
