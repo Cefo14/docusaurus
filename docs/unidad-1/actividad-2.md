@@ -44,9 +44,11 @@ Sigue estos pasos:
 - Registra el Product Backlog y el Sprint Backlog de manera clara y concisa.
 - Reflexiona sobre el proceso, identificando lecciones aprendidas y posibles mejoras para futuros sprints.
 
-3. Muestra la evidencia de la creación de dicho backlog en JIRA o Trello, puedes elegir una de estas dos herramientas.
+### Evidencia
 
-4. Sube un documento con el link a la herramienta y capturas de pantalla que evidencian su uso.
+1. Muestra la evidencia de la creación de dicho backlog en JIRA o Trello, puedes elegir una de estas dos herramientas.
+
+2. Sube un documento con el link a la herramienta y capturas de pantalla que evidencian su uso.
 
 ## Recomendaciones
 
