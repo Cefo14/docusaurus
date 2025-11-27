@@ -41,7 +41,9 @@ Este ejercicio no solo fortalecerá la comprensión teórica de Scrum, sino que 
 - Identifica los diferentes tipos de contenido educativo que se deben incluir, como videos, artículos, ejercicios interactivos, etc.
 - Prioriza estos elementos en función de su relevancia educativa y accesibilidad.
 
-3. Sube al buzón un documento con capturas de pantalla de los ejercicios realizados.
+### Entrega
+
+Sube al buzón un documento con capturas de pantalla de los ejercicios realizados.
 
 ## Recomendaciones
 
