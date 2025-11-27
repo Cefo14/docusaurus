@@ -48,10 +48,10 @@ Una semana
 
 ## Referencias
 
-**Proyectos de ejemplo**
+### Proyectos de ejemplo
 
 - [https://es.reactjs.org/community/examples.html](https://es.reactjs.org/community/examples.html)
 
-**Ejemplo práctico de React desde cero**
+### Ejemplo práctico de React desde cero
 
 - [https://www.arsys.es/blog/programacion/ejemplo-practico-react/](https://www.arsys.es/blog/programacion/ejemplo-practico-react/)
