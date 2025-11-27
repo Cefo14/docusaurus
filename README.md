@@ -1,41 +1,62 @@
-# Website
+# Documentacion del Curso - Metodologia SCRUM
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+Sitio de documentacion desarrollado con Docusaurus para presentar las actividades realizadas durante el curso de Proyecto II.
 
-## Installation
+## Estructura del Contenido
 
-```bash
-yarn
-```
+- **Unidad 1**: Introduccion a SCRUM
+- **Unidad 2**: Aplicacion de SCRUM
+- **Unidad 3**: Desarrollo y ajustes de Sprints
+- **Unidad 4**: Revisiones y modificaciones
+- **Producto Integrador**: Producto final del curso
 
-## Local Development
+## Comandos
 
-```bash
-yarn start
-```
-
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
-
-## Build
+### Desarrollo
 
 ```bash
-yarn build
+pnpm start
 ```
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
+Inicia el servidor de desarrollo en `http://localhost:3000/`
 
-## Deployment
-
-Using SSH:
+### Build
 
 ```bash
-USE_SSH=true yarn deploy
+pnpm build
 ```
 
-Not using SSH:
+Genera el sitio estatico en el directorio `build/`
+
+### Servir Build Local
 
 ```bash
-GIT_USER=<Your GitHub username> yarn deploy
+pnpm serve
 ```
 
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+Sirve el contenido del directorio `build/` localmente
+
+## Convenciones de Commits
+
+Este proyecto sigue [Conventional Commits](https://www.conventionalcommits.org/):
+
+- `feat:` - Nueva funcionalidad
+- `docs:` - Cambios en documentacion
+- `fix:` - Correccion de errores
+- `chore:` - Tareas de mantenimiento
+
+## Plantilla de Actividad
+
+Las actividades siguen la estructura definida en `docs/_activity-template.md`:
+
+- Objetivo
+- Instrucciones
+- Recomendaciones
+- Criterios de Evaluacion
+
+## Tecnologias
+
+- [Docusaurus](https://docusaurus.io/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [React](https://react.dev/)
+- [Markdown](https://www.markdownguide.org/)
